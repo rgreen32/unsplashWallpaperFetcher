@@ -1,5 +1,6 @@
 A Python script and a batch script for fetching a random photo from user-specified https://unsplash.com/ collections and setting the photo to desktop background automatically.
 
+Written and tested on the Windows 10 OS
 
 # fetchImage.py
 Youll need to get an unsplash api key from https://unsplash.com/developers. then add that key as an envronment variable named API_KEY or plug it into fetchImage.py. Then pick out some collection ids from https://unsplash.com/collections and plug them into fetchImage.py. 
