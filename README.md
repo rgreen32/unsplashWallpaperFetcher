@@ -1,4 +1,3 @@
-# wallpaperFetcher
 A Python script and a batch script for fetching a random photo from user-specified https://unsplash.com/ collections and setting the photo to desktop background automatically.
 
 
