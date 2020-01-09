@@ -8,4 +8,4 @@ If everything is set up correctly, when fetchImage.py is run, it should save a r
 
 
 # wallpaperScript.bat
-the wallpaperScript.bat runs fetchImage.py and attempts to save the image file produced by it as the Desktop background picture. (Its not very reliable yet.)
+wallpaperScript.bat runs fetchImage.py and attempts to save the image file produced by it as the Desktop background picture. (Its not very reliable yet.)
